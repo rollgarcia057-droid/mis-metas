@@ -27,5 +27,9 @@ Hola, soy [Edwin Garcia]. Este repositorio es donde registro lo que quiero logra
 2. Marcar con una X las metas cumplidas.
 3. Agregar metas nuevas cuando las anteriores se logren.
 
+## Metas de ejercicio
+1. Flexiones de brazos.
+2. Trotar durante 30 min.
+
 ## Frase que me motiva
 > "La disciplina es lo unico que necesitas para lograr lo planeado."
