@@ -38,3 +38,4 @@ Hola, soy [Edwin Garcia]. Este repositorio es donde registro lo que quiero logra
 ## Frase que me motiva
 > "La disciplina es lo unico que necesitas para lograr lo planeado."
 > "Podemos hacer todo lo que nos propongamos."
+> "Luchemos por todo, que vale la pena." 
